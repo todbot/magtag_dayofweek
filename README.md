@@ -18,3 +18,5 @@ To install:
 
 
 <img width=800 src="./magtag_dayofweek_800.jpg" />
+
+<img width=800 src="./magtag_dayofweek_6days.jpg" />
