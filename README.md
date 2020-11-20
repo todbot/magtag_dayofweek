@@ -1,4 +1,4 @@
-# magtag_dayofweek
+# MagTag Day Of Week
 
 Use the [MagTag](https://www.adafruit.com/magtag) WiFi ePaper device to display day of week on your fridge
 
@@ -10,7 +10,7 @@ To install:
 
 - Copy `bmps` directory to your MagTag's CIRCUITPY drive
 
-- Install needed MagTag libraries from CircuitPython Bundle
+- Install needed MagTag libraries from CircuitPython Bundle to your MagTag's CIRCUITPY drive
 
   - If you have [`cirpycp`](https://github.com/todbot/cirpycp) installed, you can install libraries with:
   
