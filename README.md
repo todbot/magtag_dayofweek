@@ -12,8 +12,9 @@ To install:
 
 - Install needed MagTag libraries from CircuitPython Bundle
 
--- If you have [`cirpycp`](https://github.com/todbot/cirpycp) installed, you can do that with:
-`cirpycp.sh adafruit-circuitpython-bundle-6.x-mpy-20201117 reqs-magtag-example.txt /Volumes/CIRCUITPY`
+  - If you have [`cirpycp`](https://github.com/todbot/cirpycp) installed, you can install libraries with:
+  
+      `cirpycp.sh adafruit-circuitpython-bundle-6.x-mpy-20201117 reqs-magtag-example.txt /Volumes/CIRCUITPY`
 
 
 <img width=800 src="./magtag_dayofweek_800.jpg" />
